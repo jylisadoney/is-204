@@ -50,9 +50,9 @@ Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls
 
 <!--
 Cassidy, B. (2016, November 7). Accessibility a potential barrier to 2016 NYC voter turnout [Blog post].-->
-(Item 2)[https://medium.com/@bybencassidy/accessibility-a-potential-barrier-to-2016-nyc-voter-turnout-1f188006fb03]
+[Item 2](https://medium.com/@bybencassidy/accessibility-a-potential-barrier-to-2016-nyc-voter-turnout-1f188006fb03)
 
 ## Set 7
 <!--
 Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.-->
-(Item 1)[https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64]
+[Item 1](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64)
