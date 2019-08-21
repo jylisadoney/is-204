@@ -9,12 +9,11 @@ When doing research, it can often be helpful to start your search within specifi
 ## Identify disciplinary journals
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Databases A-Z` below the search box
-* In the drop-down box, scroll to and select `Journal Citation Reports`
-* Click on go
+* In the drop-down box, scroll to and select `Journal Citation Reports`, click on go
 * On the new page, click on `Browse by Journal`
 * On the new page, click on `Select Categories`
 * Scroll down to and check the box for a specific discipline
-  * Example: Sociology
+  * Example: Political Science
 * Scroll down and click on `Submit` at the bottom of the page
 
 You can now see a ranked list of journals within a specific discipline. Journals in this list are ranked based on the number of times their articles are cited by other articles.
@@ -26,7 +25,7 @@ Once you select a journal, you can use a library database to confirm that it is 
 * Click on `Databases A-Z` below the search box
 * In the drop-down box, scroll to and select `Ulrichsweb Global Serials Directory`
 * On the new page, type the `journal name` into the search box
-  * Example: Sociology Compass
+  * Example: *American Journal of Political Science*
 * Click on the magnifying glass
 * On the new page, identify the correct journal
 * If the journal has a 'referee jersey' icon next to its name, it is a peer-reviewed journal
