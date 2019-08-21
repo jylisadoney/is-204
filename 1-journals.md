@@ -19,6 +19,18 @@ When doing research, it can often be helpful to start your search within specifi
 
 You can now see a ranked list of journals within a specific discipline. Journals in this list are ranked based on the number of times their articles are cited by other articles.
 
+## Confirm if a journal is peer-reviewed
+Once you select a journal, you can use a library database to confirm that it is peer-reviewed.
+
+* Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
+* Click on `Databases A-Z` below the search box
+* In the drop-down box, scroll to and select `Ulrichsweb Global Serials Directory`
+* On the new page, type the `journal name` into the search box
+  * Example: Sociology Compass
+* Click on the magnifying glass
+* On the new page, identify the correct journal
+* If the journal has a 'referee jersey' icon next to its name, it is a peer-reviewed journal
+
 ## Find a journal in the library catalog
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
