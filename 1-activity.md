@@ -10,12 +10,16 @@ Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls
 [Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=38FFB3F4FBB72539F4A08E73CAE53496.app03.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229601219480001851&institutionId=1851&customerId=1840)
 
 <!--
-Cassidy, B. (2016, November 7). Accessibility a potential barrier to 2016 NYC voter turnout [Blog post].-->
-[Item 2](https://medium.com/@bybencassidy/accessibility-a-potential-barrier-to-2016-nyc-voter-turnout-1f188006fb03)
+U.S. Census Bureau. (2019, April 23). Voter turnout rates among all voting age and major raical and ethnic groups were higher than in 2014.-->
+[Item 2](https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html)
 
 <!--
-Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.-->
-[Item 3](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64)
+Vasilogambros, M. (2018, February 1). How voters with disabilities are blocked from the ballot box [Blog post].-->
+[Item 2](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/02/01/how-voters-with-disabilities-are-blocked-from-the-ballot-box)
+
+<!--
+Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.
+[Item 3](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64)-->
 
 <!--
 Chalabi, M. (2016, October 29). Can't vote/won't vote: How turnout will decide the 2016 presidential election;
@@ -41,8 +45,12 @@ Editorial: Voter turnout crucial to national, local issues [Letter to the editor
 
 ## Set 3
 <!--
-Green, D. P., & Gerber, A. S. (2015). *Get out the vote: How to increase voter turnout.* Washington, D.C.: Brookings Institution Press.-->
-[Item 1](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=5179909&ppg=100)
+Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls, and direct mail on voter turnout: A field experiment. *American Political Science Review, 94*(3), 653-663.-->
+[Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=38FFB3F4FBB72539F4A08E73CAE53496.app03.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229601219480001851&institutionId=1851&customerId=1840)
+
+<!--
+Green, D. P., & Gerber, A. S. (2015). *Get out the vote: How to increase voter turnout.* Washington, D.C.: Brookings Institution Press.
+[Item 1](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=5179909&ppg=100)-->
 
 <!--
 Cilluffo, A., & Fry, R. (2019, May 29). Gen Z, Millenials, and Gen X outvoted older generations in 2018 midterms.-->
@@ -75,12 +83,16 @@ Voter turnout. (n.d.). In *Wikipedia.* Retrieved August 21, 2019.-->
 
 ## Set 5
 <!--
+Miller, P., Reynolds, R., & Singer, M. (2017). Mobilizing the young vote: Direct mail voter guides in the 2015 Chicago mayoral election. *Research & Politics, 4*(4), 2053168017738410.-->
+[Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=B7DA917D4A9DFE540BA660FCFC33B22F.app05.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229606793280001851&institutionId=1851&customerId=1840)
+
+<!--
 Stewart, K., & Taylor, J. (2018, March 23). Online voting: The solution to declining political engagement [Blog post]. *The RAND Blog.*-->
 [Item 1](https://www.rand.org/blog/2018/03/online-voting-the-solution-to-declining-political-engagement.html)
 
 <!--
-Green, D. P., & Gerber, A. S. (2015). *Get out the vote: How to increase voter turnout.* Washington, D.C.: Brookings Institution Press.-->
-[Item 2](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=5179909&ppg=100)
+Green, D. P., & Gerber, A. S. (2015). *Get out the vote: How to increase voter turnout.* Washington, D.C.: Brookings Institution Press.
+[Item 2](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=5179909&ppg=100)-->
 
 <!--
 Reichard, P. (2017, December 27). What to do with the vexing problem of poor voter turnout. *Deseret Morning News.*-->
@@ -96,8 +108,8 @@ Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls
 [Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=38FFB3F4FBB72539F4A08E73CAE53496.app03.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229601219480001851&institutionId=1851&customerId=1840)
 
 <!--
-Cassidy, B. (2016, November 7). Accessibility a potential barrier to 2016 NYC voter turnout [Blog post].-->
-[Item 2](https://medium.com/@bybencassidy/accessibility-a-potential-barrier-to-2016-nyc-voter-turnout-1f188006fb03)
+Vasilogambros, M. (2018, February 1). How voters with disabilities are blocked from the ballot box [Blog post].-->
+[Item 2](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/02/01/how-voters-with-disabilities-are-blocked-from-the-ballot-box)
 
 <!--
 Editorial: Voter turnout crucial to national, local issues [Letter to the editor]. (2018, April 17). *The Marquette Tribune.*-->
@@ -109,8 +121,12 @@ Compulsory voting. (n.d.). In *Wikipedia.* Retrieved August 21, 2019.-->
 
 ## Set 7
 <!--
-Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.-->
-[Item 1](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64)
+Miller, P., Reynolds, R., & Singer, M. (2017). Mobilizing the young vote: Direct mail voter guides in the 2015 Chicago mayoral election. *Research & Politics, 4*(4), 2053168017738410.-->
+[Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=B7DA917D4A9DFE540BA660FCFC33B22F.app05.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229606793280001851&institutionId=1851&customerId=1840)
+
+<!--
+Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.
+[Item 1](https://ida.lib.uidaho.edu:2127/lib/uidaho/reader.action?docID=472683&ppg=64)-->
 
 <!--
 Cilluffo, A., & Fry, R. (2019, May 29). Gen Z, Millenials, and Gen X outvoted older generations in 2018 midterms.-->
