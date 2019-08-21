@@ -34,7 +34,7 @@ Once you select a journal, you can use a library database to confirm that it is 
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` into the search box
-  * Example: Public Understanding of Science
+  * Example: *American Journal of Political Science*
 * Click on go or hit enter on your keyboard
 * On the new page, click the journal title that provides `Online Access`
 * Under `View It`, click the link that provides the access you need (current/historic articles)
