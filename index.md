@@ -1,12 +1,7 @@
 ---
 title: Home
 ---
-# Sociology 341 Library Session (Spring 2018)
-
-This library session will teach you how to:
-- search in STS journals and library databases
-- create and modify your search strategies
-- use citation chaining backwards and forwards through a research topic
+# POLS 235 Library Session (Fall 2019)
 
 <a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this session or content?** 
 
