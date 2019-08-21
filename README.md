@@ -1,4 +1,4 @@
-# Political science 235 library session
+# POLS 235 library session
 
 Jekyll repository for the "POLS 235 library session" at the University of Idaho Library.
 

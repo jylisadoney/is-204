@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Political science 235 library session
+# POLS 235 library session
 
 This library session will teach you how to:
 - search for disciplinary resources
