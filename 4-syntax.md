@@ -2,9 +2,9 @@
 title: Syntax
 nav: true
 ---
-# Search Syntax
+# Search syntax
 
-Use the operators below to combine your keywords in journal/database search boxes.
+Use the **search strategies** below to combine your keywords in journal/database search boxes.
 
 <style>
 table, th, td { 
