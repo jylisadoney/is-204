@@ -10,12 +10,12 @@ Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls
 [Item 1](https://na01.alma.exlibrisgroup.com/view/action/uresolver.do;jsessionid=38FFB3F4FBB72539F4A08E73CAE53496.app03.na01.prod.alma.dc04.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=2229601219480001851&institutionId=1851&customerId=1840)
 
 <!--
-U.S. Census Bureau. (2019, April 23). Voter turnout rates among all voting age and major raical and ethnic groups were higher than in 2014.-->
-[Item 2](https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html)
-
-<!--
 Vasilogambros, M. (2018, February 1). How voters with disabilities are blocked from the ballot box [Blog post].-->
 [Item 2](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/02/01/how-voters-with-disabilities-are-blocked-from-the-ballot-box)
+
+<!--
+U.S. Census Bureau. (2019, April 23). Voter turnout rates among all voting age and major raical and ethnic groups were higher than in 2014.-->
+[Item 3](https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html)
 
 <!--
 Juenke, E. G., & Shepherd, J. (2008). Vote centers and voter turnout. In B. E. Cain, T. Donovan, and C. J. Tolbert (Eds.), *Democracy in the states: Experiments in election reform* (pp. 55-67). Washington, D.C.: Brookings Institution Press.
