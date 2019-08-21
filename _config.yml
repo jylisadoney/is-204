@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "POLS 235 library session (Fall 2019)"
+title: "POLS 235 library session"
 # description and keywords for meta tags
 description: "Learn how to search for disciplinary resources"
 keywords: 

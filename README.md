@@ -1,6 +1,6 @@
-# POLS 235 library session (Fall 2019)
+# POLS 235 library session
 
-Jekyll repository for the "POLS 235 library session (Fall 2019)" at the University of Idaho Library.
+Jekyll repository for the "POLS 235 library session" at the University of Idaho Library.
 
 <link to repository>
 

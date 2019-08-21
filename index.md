@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# POLS 235 library session (Fall 2019)
+# POLS 235 library session
 
 This library session will teach you how to:
 - search for disciplinary resources
