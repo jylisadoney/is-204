@@ -4,6 +4,8 @@ nav: true
 ---
 # Source evaluation activity
 
+Select one source below, visit [Slido](https://www.sli.do), and enter participant number 6342 to complete the activity.
+
 ## Set 1
 <!--
 Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls, and direct mail on voter turnout: A field experiment. *American Political Science Review, 94*(3), 653-663.-->
