@@ -18,8 +18,7 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Search in a library database
 * Type your keywords into the search box
-  * Example: vaccines AND opinions AND trust
-    * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
+  * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html" target="_blank">search syntax page</a> to learn more about search strategies
 * Click on search or hit enter on your keyboard
 
 ## Limit search results

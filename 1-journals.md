@@ -41,9 +41,8 @@ Once you select a journal, you can use a library database to confirm that it is 
 * Enter your `Vandal NetID` if prompted 
 
 ## Search within a journal
-* Type your `keywords` into the search box
-  * Example: vaccines AND opinions AND trust
-    * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
+* Type your `keywords` into the search box 
+  * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html" target="_blank">search syntax page</a> to learn more about search strategies
 * If prompted, select the option to search in `This Journal` only
 * Click on search or hit enter on your keyboard
 * Browse the results 
