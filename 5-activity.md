@@ -4,7 +4,7 @@ nav: true
 ---
 # Source evaluation activity
 
-Select one source from each of the three sections below then visit <a href="placeholder" target="_blank">POLS 235-01</a> to complete the activity.
+Select one source from each of the three sections below then fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_56y0OyCBP0uvrWR" target="_blank">POLS 235 online worksheet</a> to complete the activity.
 
 <h3>Section 1</h3>
 <ul>
@@ -12,8 +12,6 @@ Select one source from each of the three sections below then visit <a href="plac
 <li><a href="http://ida.lib.uidaho.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=127042506&site=ehost-live&scope=site" target="_blank">Source 2</a></li>
 <li><a href="http://ida.lib.uidaho.edu:2048/login?url=https://www.sciencedirect.com/science/article/pii/S0261379416300531" target="_blank">Source 3</a></li>
 </ul>
-
-</body>
 
 <h3>Section 2</h3>
 <ul>
@@ -28,4 +26,3 @@ Select one source from each of the three sections below then visit <a href="plac
 <li><a href="https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html" target="_blank">Source 2</a></li>
 <li><a href="http://ida.lib.uidaho.edu:2048/login?url=https://advance.lexis.com/api/permalink/95b7d442-6c32-4ac7-addb-333f694b9ee0/?context=1516831" target="_blank">Source 3</a></li>
 </ul>
-
