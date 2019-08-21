@@ -7,19 +7,19 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Select a library database
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
-* Click on `Articles & Databases` below the search box
+* Click on `Articles` below the search box
 * On the new page:
-  * **Option 1**: Click on `View our Databases A-Z list`
-  * **Option 2**: Click on a `Databases by Subject link`
-    * Example: Sociology/Criminology
+  * **Option 1**: Click on `Databases by Title`
+  * **Option 2**: Click on a `Databases by Subject` link
+    * Example: Political Science
 * On the new page, click on the database you are interested in
-  * Example: Sociological Abstracts
+  * Example: Sage Journals
 * Enter your `Vandal NetID` if prompted 
 
 ## Search in a library database
 * Type your keywords into the search box
   * Example: vaccines AND opinions AND trust
-    * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
+    * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
 * Click on search or hit enter on your keyboard
 
 ## Limit search results
