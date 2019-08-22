@@ -4,7 +4,7 @@ nav: true
 ---
 # Source evaluation activity
 
-Select one source from each of the three sections below then fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_56y0OyCBP0uvrWR" target="_blank">POLS 235 online worksheet</a> to complete the activity.
+Select one source from each of the three sections below then fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_56y0OyCBP0uvrWR" target="_blank">POLS 235 Activity 3 online worksheet</a> to complete the activity.
 
 <h3>Section 1</h3>
 <ul>
