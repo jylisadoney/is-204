@@ -10,4 +10,4 @@ Start at the <a href="https://www.lib.uidaho.edu" target="_blank">Library websit
 2. Search for the journal in `Ulrichsweb` and identify whether or not it's peer-reviewed.
 3. Finally, search for the journal on the `Library website` and identify your access options.
 
-Share your findings on the <a href="link" target="_blank">POLS 235 Activity 1 online worksheet</a>.
+Share your findings on the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_5zPkMyj557JcwVT" target="_blank">POLS 235 Activity 1 online worksheet</a>.
