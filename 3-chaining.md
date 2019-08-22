@@ -1,6 +1,6 @@
 ---
 title: Chaining
-nav: true
+nav:
 ---
 # Citation chaining
 

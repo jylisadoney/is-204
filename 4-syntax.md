@@ -1,6 +1,6 @@
 ---
 title: Syntax
-nav: true
+nav:
 ---
 # Search syntax
 

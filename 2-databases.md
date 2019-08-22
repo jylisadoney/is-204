@@ -1,6 +1,6 @@
 ---
 title: Databases
-nav: true
+nav:
 ---
 # Search within library databases
 Databases can be helpful places to search as they include peer-reviewed articles from multiple journals.

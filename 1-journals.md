@@ -1,6 +1,6 @@
 ---
 title: Journals
-nav: true
+nav:
 ---
 # Identify and search within specific journals
 
