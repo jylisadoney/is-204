@@ -21,6 +21,17 @@ You can now see a ranked list of journals within a specific discipline. Journals
 ## Confirm if a journal is peer-reviewed
 Once you select a journal, you can use a library database to confirm that it is peer-reviewed.
 
+* Within `Journal Citation Reports`, click on the title of a journal
+  * Example: *American Journal of Political Science*
+* Identify the `publisher`
+  * Example: Wiley
+* Open a new tab and go to your search engine of choice
+* Search for the `name of the journal` and the `publisher`
+  * Example: *American Journal of Political Science* Wiley
+* Visit the journal's website
+* Review content such as `Aims and Scope`, `About`, `Author Guidelines`, etc. to determine whether the journal is peer-reviewed
+  * Journals may also use terms such as `refereed`, `single-blind review`, `double-blind review`, etc. as synonyms for `peer-review`
+<!-->
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Databases A-Z` below the search box
 * In the drop-down box, scroll to and select `Ulrichsweb Global Serials Directory`
@@ -29,6 +40,7 @@ Once you select a journal, you can use a library database to confirm that it is 
 * Click on the magnifying glass
 * On the new page, identify the correct journal
 * If the journal has a 'referee jersey' icon next to its name, it is a peer-reviewed journal
+-->
 
 ## Find a journal in the library catalog
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
