@@ -9,6 +9,6 @@ Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_eRKqWXNUPpDEz
 Instructions are also included below:
 1. Create a search string using **AND** as well as **OR**
   - Sample topic: How do presidential candidates use social media to connect with voters?
-2. Test the search string in two different resources
+2. Test your search string in two different resources
   - Examples: Library catalog, a specific journal, a library database, Google Scholar, etc.
-3. Compare and contrast the search results
+3. Compare and contrast your search results

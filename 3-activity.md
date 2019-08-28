@@ -10,7 +10,7 @@ Imagine you are doing research on voter turnout.
 
 1. Select one source from each of the three sections below 
 2. Read or skim the three sources you selected
-3. Compare and contrast these sources
+3. Compare and contrast your three sources
 
 <h3>Section 1</h3>
 <ul>
