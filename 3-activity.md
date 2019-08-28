@@ -4,7 +4,7 @@ nav: true
 ---
 # Source evaluation activity
 
-Imagine you are writing a research paper on voter turnout.
+Imagine you are doing research on voter turnout.
 
 1. Select one source from each of the three sections below 
 2. Read and/or skim each source
