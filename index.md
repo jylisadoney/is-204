@@ -2,13 +2,12 @@
 title: Home
 ---
 # POLS 235 library session
-
+<!--
 This library session will teach you how to:
 - search for disciplinary resources
 - create and modify your search strategies
 - use citation chaining backwards and forwards through a research topic
-
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about this session or content?** 
+-->
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -17,9 +16,11 @@ This library session will teach you how to:
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
 {% endfor %}
 </div>
-
+<!--
 > hosted by the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> ({{ site.pub_year }})
->
+>-->
+> <a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">Questions about this session or content?
+> 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
 > images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}}. (get [source code]({{ site.repo }}))
