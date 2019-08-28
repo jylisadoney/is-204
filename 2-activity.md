@@ -10,5 +10,5 @@ Instructions are also included below:
 1. Create a **search string** using **AND** as well as **OR**
   - Sample topic: How do presidential candidates use social media to connect with voters?
 2. Test the same **search string** in two different resources
-  - Examples: Library catalog, a specific journal, a library database, Google Scholar
+  - Examples: Library catalog, a specific journal, a library database, Google Scholar, etc.
 3. Compare and contrast the search results
