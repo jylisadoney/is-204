@@ -10,4 +10,4 @@ Instructions are also included below:
 1. Start at the <a href="https://www.lib.uidaho.edu" target="_blank">Library website</a>
 2. Visit the **Journal Citation Reports** database and identify a top-20 journal within political science
 3. Visit the journal's website and identify whether or not it's peer-reviewed
-4. Finally, search for the journal on the **Library website** and identify your access options
+4. Finally, search for the journal in the **Library catalog** and identify your access options
