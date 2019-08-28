@@ -2,7 +2,7 @@
 title: Activity 3
 nav: true
 ---
-# Source evaluation activity
+# Evaluating sources
 
 Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_56y0OyCBP0uvrWR" target="_blank">POLS 235 Activity 3 online worksheet</a> to share your findings.
 

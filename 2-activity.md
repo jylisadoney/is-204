@@ -2,7 +2,7 @@
 title: Activity 2
 nav: true
 ---
-# Search strategies activity
+# Developing search strategies
 
 Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_eRKqWXNUPpDEzad" target="_blank">POLS 235 Activity 2 online worksheet</a> to share your findings.
 

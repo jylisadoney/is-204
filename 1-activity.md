@@ -2,7 +2,7 @@
 title: Activity 1
 nav: true
 ---
-# JCR and peer-review activity
+# Identifying the top peer-reviewed sources in political science
 
 Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_5zPkMyj557JcwVT" target="_blank">POLS 235 Activity 1 online worksheet</a> to share your findings.
 
