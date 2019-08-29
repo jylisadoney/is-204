@@ -7,6 +7,6 @@ nav: true
 Fill-out the <a href="link" target="_blank">IS 204 Activity 1 online worksheet</a> to share your findings.
 
 1. Choose a focus area of interest
-2. Identify one to three organizations that you already know of
-3. Select one of the resources discussed on the "Find Organizations" tab in the <a href="https://libguides.uidaho.edu/IntlStudies" targe="_blank">International Studies research guide</a>
-4. Identify two new organizations that work in this area and share their websites
+2. Identify one organization that you already know does work in this area
+3. Using the resources the on the "Find Organizations" tab in the <a href="https://libguides.uidaho.edu/IntlStudies" targe="_blank">International Studies research guide</a>, identify an NGO or IGO and a think tank that works in this area
+4. Visit the websites of all three organizations and compare and contrast their missions
