@@ -54,7 +54,7 @@ Once you select a journal, you can visit its website to determine whether it is 
 
 ## Search within a journal
 * Type your `keywords` into the search box 
-  * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html">search syntax page</a> to learn more about search strategies
+  * Visit the <a href="https://jylisadoney.github.io/is-204/4-syntax.html">search syntax page</a> to learn more about search strategies
 * If prompted, select the option to search in `This Journal` only
 * Click on search or hit enter on your keyboard
 * Browse the results 

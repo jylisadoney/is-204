@@ -1,6 +1,6 @@
-# POLS 235 library session
+# IS 204 library session
 
-Jekyll repository for the "POLS 235 library session" at the University of Idaho Library.
+Jekyll repository for the "IS 204 library session" at the University of Idaho Library.
 
 <link to repository>
 <!--

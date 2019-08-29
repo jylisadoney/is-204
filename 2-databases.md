@@ -18,7 +18,7 @@ Databases can be helpful places to search as they include peer-reviewed articles
 
 ## Search in a library database
 * Type your keywords into the search box
-  * Visit the <a href="https://jylisadoney.github.io/pols-235/4-syntax.html">search syntax page</a> to learn more about search strategies
+  * Visit the <a href="https://jylisadoney.github.io/is-204/4-syntax.html">search syntax page</a> to learn more about search strategies
 * Click on search or hit enter on your keyboard
 
 ## Limit search results

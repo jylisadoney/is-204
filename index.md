@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# POLS 235 library session
+# IS 204 library session
 <!--
 This library session will teach you how to:
 - search for disciplinary resources
