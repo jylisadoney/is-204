@@ -4,13 +4,13 @@ nav: true
 ---
 # Evaluating sources
 
-Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_56y0OyCBP0uvrWR" target="_blank">POLS 235 Activity 3 online worksheet</a> to share your findings.
+Fill-out the <a href="link" target="_blank">IS 204 Activity 3 online worksheet</a> to share your findings.
 
-Imagine you are doing research on voter turnout.
+Imagine you are doing research on ---.
 
-1. Select one source from each of the three sections below 
+1. Select one source from each of the four sections below 
 2. Read or skim the three sources you selected
-3. Compare and contrast your three sources
+3. Compare and contrast your four sources
 
 <h3>Section 1</h3>
 <ul>
