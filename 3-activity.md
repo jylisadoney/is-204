@@ -21,17 +21,17 @@ Imagine you are doing research on the legal residency process for immigrants.
 <h3>Section 2</h3>
 <ul>
 <li><a href="https://www.afsc.org/sites/default/files/documents/Beyond_Borders_Honoring_Human_Dignity.pdf" target="_blank">Option 2a</a></li>
-<li><a href="https://www.icmpd.org/fileadmin/2017/1_Policy_Brief_GCM_FINAL_17.06.2017_SEMMP.pdf" target="_blank">Option 2b</a></li>
+<li><a href="https://cmsny.org/publications/2018-proposed-public-charge-rule/" target="_blank">Option 2b</a></li>
 </ul>
 
 <h3>Section 3</h3>
 <ul>
-<li><a href="http://www.europarl.europa.eu/RegData/etudes/BRIE/2018/625116/EPRS_BRI(2018)625116_EN.pdf" target="_blank">Option 3a</a></li>
+<li><a href="https://crsreports.congress.gov/product/pdf/R/R43145" target="_blank">Option 3a</a></li>
 <li><a href="https://www.dhs.gov/sites/default/files/publications/Lawful_Permanent_Residents_2017.pdf" target="_blank">Option 3b</a></li>
 </ul>
 
 <h3>Section 4</h3>
 <ul>
-<li><a href="https://www.pewresearch.org/hispanic/2013/02/04/the-path-not-taken/" target="_blank">Option 4a</a></li>
+<li><a href="https://www.pewresearch.org/fact-tank/2018/01/18/naturalization-rate-among-u-s-immigrants-up-since-2005-with-india-among-the-biggest-gainers/" target="_blank">Option 4a</a></li>
 <li><a href="https://www.heritage.org/immigration/report/agenda-american-immigration-reform" target="_blank">Option 4b</a></li>
 </ul>
