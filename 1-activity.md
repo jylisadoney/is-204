@@ -4,9 +4,11 @@ nav: true
 ---
 # Identifying organizations that work within a focus area of interest
 
-Fill-out the <a href="link" target="_blank">IS 204 Activity 1 online worksheet</a> to share your findings.
+Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_5p3ebQ4EM2UiPCB" target="_blank">IS 204 Activity 1 online worksheet</a> to share your findings.
 
-1. Choose a focus area of interest
-2. Identify one organization that you already know does work in this area
-3. Using the resources the on the "Find Organizations" tab in the <a href="https://libguides.uidaho.edu/IntlStudies" targe="_blank">International Studies research guide</a>, identify an NGO or IGO and a think tank that works in this area
+1. List one area of interest
+2. Identify one organization (NGO, IGO, think tank, etc.) that you already know does work in this area?
+3. Using the resources on the "Find Organizations" tab in the <a href="https://libguides.uidaho.edu/IntlStudies" targe="_blank">International Studies research guide</a>, identify two other organizations that work in this area
+  - An NGO or IGO 
+  - A think tank
 4. Visit the websites of all three organizations and compare and contrast their missions
