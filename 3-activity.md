@@ -4,7 +4,7 @@ nav: true
 ---
 # Evaluating sources
 
-Fill-out the <a href="link" target="_blank">IS 204 Activity 3 online worksheet</a> to share your findings.
+Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_8k02LEXPtVy2GuV" target="_blank">IS 204 Activity 3 online worksheet</a> to share your findings.
 
 Imagine you are doing research on the legal residency process for immigrants.
 
