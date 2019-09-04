@@ -2,7 +2,7 @@
 title: Activity 1
 nav: true
 ---
-# Identifying organizations that work within a focus area of interest
+# Identifying organizations that work in an area of interest
 
 Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_5p3ebQ4EM2UiPCB" target="_blank">IS 204 Activity 1 online worksheet</a> to share your findings.
 
