@@ -8,7 +8,7 @@ Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_cTjqb9Zoez2W8
 
 Imagine you are doing research on your area of interest from Activity 1.
 
-1. Create a **domain specific search string** to find related information created by:
-  - A **government agency**
-  - An **organization identified in Activity 1**
-2. Compare and contrast the results of each search
+1. Create a **domain-specific search string** to find related information created by:
+  - A government agency
+  - An organization from Activity 1
+2. Test your search strings in Google and compare and contrast your search results
