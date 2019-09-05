@@ -8,7 +8,7 @@ Fill-out the <a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_8k02LEXPtVy2G
 
 Imagine you are doing research on the legal residency process for immigrants.
 
-1. Select one source from each of the four sections below 
+1. Select one source/item from each of the four sections below 
 2. Read or skim the four sources you selected
 3. Compare and contrast your four sources
 
